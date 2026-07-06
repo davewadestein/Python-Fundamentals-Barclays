@@ -6,3 +6,4 @@
   * I've been asked to take attendance each day 
 * Materials / tools
   * Google Colaboratory https://colab.research.google.com/
+  * Python Tutor: https://pythontutor.com/
