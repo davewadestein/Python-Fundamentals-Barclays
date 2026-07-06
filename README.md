@@ -1,4 +1,5 @@
 # Python-Fundamentals-Barclays
+* Tuesday poll: https://xoyondo.com/op/dbfztct1i2cz2p7
 * Dave Wade-Stein (instructor.dws@gmail.com)
 * July 6-8 
   * EDT: 9 AM - 5 PM
