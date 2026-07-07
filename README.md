@@ -1,4 +1,5 @@
 # Python-Fundamentals-Barclays
+* Remind everyone to download/save their work!
 * Take attendance!
 * Tuesday poll: https://xoyondo.com/op/dd4r4kd7dhw3oti
 * Monday AM poll: https://xoyondo.com/op/dbfztct1i2cz2p7
