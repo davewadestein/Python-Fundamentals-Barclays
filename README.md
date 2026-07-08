@@ -1,7 +1,10 @@
 # Python-Fundamentals-Barclays
 * Remind everyone to download/save their work!
 * Take attendance!
+* Wednesday poll: https://xoyondo.com/op/a2tgaxatqo3x70g
 * Tuesday poll: https://xoyondo.com/op/dd4r4kd7dhw3oti
+<img width="204" height="292" alt="Screenshot 2026-07-08 at 6 32 06 AM" src="https://github.com/user-attachments/assets/244db4c8-729d-49b9-a654-a5b753c9e4fb" />
+
 * Monday AM poll: https://xoyondo.com/op/dbfztct1i2cz2p7
 <img width="175" height="300" alt="Screenshot 2026-07-06 at 10 06 10 AM" src="https://github.com/user-attachments/assets/04da3c45-69b4-496c-b5db-c876f1fd84d4" />
 
