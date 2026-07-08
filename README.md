@@ -2,6 +2,8 @@
 * Remind everyone to download/save their work!
 * Take attendance!
 * Wednesday poll: https://xoyondo.com/op/a2tgaxatqo3x70g
+<img width="204" height="307" alt="Screenshot 2026-07-08 at 2 58 40 PM" src="https://github.com/user-attachments/assets/fcd1616c-f3f5-463e-ae1d-01679d4ae265" />
+
 * Tuesday poll: https://xoyondo.com/op/dd4r4kd7dhw3oti
 <img width="204" height="292" alt="Screenshot 2026-07-08 at 6 32 06 AM" src="https://github.com/user-attachments/assets/244db4c8-729d-49b9-a654-a5b753c9e4fb" />
 
